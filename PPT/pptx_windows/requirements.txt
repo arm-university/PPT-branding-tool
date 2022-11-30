@@ -1,0 +1,5 @@
+python-pptx
+colorama
+pywin32  
+natsort
+termcolor
