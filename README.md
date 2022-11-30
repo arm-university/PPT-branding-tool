@@ -1,12 +1,8 @@
-﻿# Summary
-This project aims to entail a few tools that help automating content creation within Arm Education and Research Enablement.
+# PPT Branding Tool
+This project helps automate content creation within Arm Education and Research Enablement. The tool can be found under the "PPT" folder and navigate to the pptx windows (Please be aware that the tool will only run in Windows). It contains three python script Refactor.py, MapPre.py, TestTool.py. The main script that needs to run is the Refactor.py.
 
-This project aims to entail a few tools that help automating content creation within Arm Education and Research Enablement. The tool can be found under the "PPT" folder and navigate to the pptx windows (Please be aware that the tool will only run in Windows). It contains three python script Refactor.py, MapPre.py, TestTool.py. The main script that needs to run is the Refactor.py.
-
-More documentation to follow.
-
+## Arm Internal
 visit https://confluence.arm.com/display/RSHEDU/EduSuite+Wiki#users-statistic to get a better understanding of the project
-
 visit http://marmor05.p.research.arm.com/edusuitehtmldoc/index.html to understand the content of each module
 
 This project makes use of the PPTX python module.
