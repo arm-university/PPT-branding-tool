@@ -1,6 +1,6 @@
 Arm Education has made the PPT branding tool open for modification and additions. Contributions are an important part of our materials, and our goal is to make it as simple as possible to become a contributor.
 
-You can make contributions to the tool. Arm Education uses the following license - [License](https://github.com/arm-university/LEGv8-ISA-Simulator/blob/main/License/LICENSE.md)
+You can make contributions to the tool. Arm Education uses the following license - [License](https://github.com/arm-university/PPT-branding-tool/blob/main/License/License.md)
 
 To encourage collaboration, as well as robust, consistent and maintainable content, we have developed a set of guidelines for contributing to these materials.
 
