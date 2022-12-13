@@ -10,7 +10,7 @@ This project helps automate content creation within Arm Education and Research E
 ## Getting Involved
 We welcome contributions, amendments & modifications to this education kit. For details, please click on the following links:
 
-* [How to contribute](https://github.com/arm-university/PPT-branding-tool/blob/main/Contributions_and_Modifications/Contributions_And_Modifications.md)
+* [How to contribute](https://github.com/arm-university/PPT-branding-tool/blob/main/Contributions_and_Modifications/Contributions_and_Modifications.md)
 * [Type of modifications](https://github.com/arm-university/PPT-branding-tool/blob/main/Contributions_and_Modifications/Desired_Contributions.md) we are looking for. We also use [Projects](https://github.com/arm-university/PPT-branding-tool/projects) to track progress.
 * [Workflow](https://github.com/arm-university/Rapid-Embedded-Education-Kit/blob/main/Contributions_and_Modifications/workflow.pdf)
 
@@ -67,10 +67,3 @@ Furthermore, using a command input, the user will be able to:
   * TestTool.py: this is a file containing unittesting using the unnitest framework https://docs.python.org/3/library/unittest.html
   * Full documentation of these files can be found in the following link: http://marmor05.p.research.arm.com/edusuitehtmldoc/index.html
 * release folder: this folder should be used to store build version of the PPT tool like executables(.exe)
-
-## To do list
-* Disable pdf generation by default. Give user the option to trigger this option using the command prompt
-* Files with the same file names need to be recoginized by its path
-* Command line feature, specify directories as arguments
-* Warning messages
-* Writing Integration test for EduSuite PPT
