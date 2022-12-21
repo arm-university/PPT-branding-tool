@@ -1,21 +1,19 @@
 
-# PPT Branding Tool
+# PowerPoint Branding Tool
 
-Welcome to the PPT Branding Tool.
+Welcome to the PowerPoint Branding Tool.
 
 ### [Download the tool here](https://github.com/arm-university/PPT-branding-tool/archive/refs/heads/main.zip)
 
-This project helps automate content creation within Arm Education and Research Enablement. The tool can be found under the "PPT" folder and navigate to the pptx windows (Please be aware that the tool will only run in Windows). It contains three python script Refactor.py, MapPre.py, TestTool.py. The main script that needs to run is the Refactor.py.
+This project makes it easy to change branding and template styles across multiple PowerPoint files. It may be useful alongside our Education Kits, for partners and Academics who wish to apply their own branding and styles to our materials. The tool can be found under the "PPT" folder and navigate to the pptx windows (Please be aware that the tool will only run in Windows). It contains three python script Refactor.py, MapPre.py, TestTool.py. The main script that needs to run is the Refactor.py.
 
 ## Getting Involved
-We welcome contributions, amendments & modifications to this education kit. For details, please click on the following links:
+We welcome contributions, amendments & modifications to this tool. For details, please click on the following links:
 
 * [How to contribute](https://github.com/arm-university/PPT-branding-tool/blob/main/Contributions_and_Modifications/Contributions_and_Modifications.md)
 * [Type of modifications](https://github.com/arm-university/PPT-branding-tool/blob/main/Contributions_and_Modifications/Desired_Contributions.md) we are looking for. We also use [Projects](https://github.com/arm-university/PPT-branding-tool/projects) to track progress.
-* [Workflow](https://github.com/arm-university/Rapid-Embedded-Education-Kit/blob/main/Contributions_and_Modifications/workflow.pdf)
+* [Workflow](https://github.com/arm-university/PPT-branding-tool/blob/main/Contributions_and_Modifications/workflow.pdf)
 
-
- 
 
 ## License
 You are free to amend, modify, fork or clone this material. See [License.md](https://github.com/arm-university/PPT-branding-tool/blob/main/License/License.md) for the complete license.
@@ -54,7 +52,7 @@ Furthermore, using a command input, the user will be able to:
 * When mapping a presentation, the new template will be applied to the selected presentation
 
 ## PPT folder structure
-* pptx_linuxV1 folder: In this folder you will find  first prototype of the PPT tool
+* pptx_linuxV1 folder: In this folder you will find  first prototype of the PowerPoint branding tool
   * dogs folder: a folder containing images of dogs
   * template folder: a folder containing templates examples for mapping lectures
   * mappingPresentationEdu.py: first version of the method for mapping presentation using https://python-pptx.readthedocs.io/en/latest/
@@ -66,4 +64,4 @@ Furthermore, using a command input, the user will be able to:
   * Refactor.py: this script in charged of everything
   * TestTool.py: this is a file containing unittesting using the unnitest framework https://docs.python.org/3/library/unittest.html
   * Full documentation of these files can be found in the following link: http://marmor05.p.research.arm.com/edusuitehtmldoc/index.html
-* release folder: this folder should be used to store build version of the PPT tool like executables(.exe)
+* release folder: this folder should be used to store build version of the PowerPoint branding tool like executables(.exe)
