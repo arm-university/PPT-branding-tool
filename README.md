@@ -14,10 +14,6 @@ We welcome contributions, amendments & modifications to this tool. For details, 
 * [Type of modifications](https://github.com/arm-university/PPT-branding-tool/blob/main/Contributions_and_Modifications/Desired_Contributions.md) we are looking for. We also use [Projects](https://github.com/arm-university/PPT-branding-tool/projects) to track progress.
 * [Workflow](https://github.com/arm-university/PPT-branding-tool/blob/main/Contributions_and_Modifications/workflow.pdf)
 
-
-## License
-You are free to amend, modify, fork or clone this material. See [License.md](https://github.com/arm-university/PPT-branding-tool/blob/main/License/License.md) for the complete license.
-
 ## Installation
 Before running the script make sure if you have Python3. To run the script there are some python dependencies that needs to be installed
 
@@ -51,6 +47,9 @@ Furthermore, using a command input, the user will be able to:
   * Refactor.py: this script is in charge of everything
   * TestTool.py: this is a file containing unittesting using the unnitest framework https://docs.python.org/3/library/unittest.html
   * Full documentation of these files can be found in the following link: http://marmor05.p.research.arm.com/edusuitehtmldoc/index.html
+
+## License
+You are free to amend, modify, fork or clone this material. See [License.md](https://github.com/arm-university/PPT-branding-tool/blob/main/License/License.md) for the complete license.
 
 ## Inclusive Language Commitment
 Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
