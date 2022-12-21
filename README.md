@@ -18,13 +18,6 @@ We welcome contributions, amendments & modifications to this tool. For details, 
 ## License
 You are free to amend, modify, fork or clone this material. See [License.md](https://github.com/arm-university/PPT-branding-tool/blob/main/License/License.md) for the complete license.
 
-## Inclusive Language Commitment
-Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
- 
-Arm is working actively with our partners, standards bodies, and the wider ecosystem to adopt a consistent approach to the use of inclusive language and to eradicate and replace offensive terms. We recognise that this will take time. This course contains references to non-inclusive language; it will be updated with newer terms as those terms are agreed and ratified with the wider community. 
- 
-Contact us at education@arm.com with questions or comments about this tool. You can also report non-inclusive and offensive terminology usage in Arm content at terms@arm.com.
-
 ## Installation
 Before running the script make sure if you have Python3. To run the script there are some python dependencies that needs to be installed
 
@@ -58,3 +51,10 @@ Furthermore, using a command input, the user will be able to:
   * Refactor.py: this script is in charge of everything
   * TestTool.py: this is a file containing unittesting using the unnitest framework https://docs.python.org/3/library/unittest.html
   * Full documentation of these files can be found in the following link: http://marmor05.p.research.arm.com/edusuitehtmldoc/index.html
+
+## Inclusive Language Commitment
+Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
+ 
+Arm is working actively with our partners, standards bodies, and the wider ecosystem to adopt a consistent approach to the use of inclusive language and to eradicate and replace offensive terms. We recognise that this will take time. This course contains references to non-inclusive language; it will be updated with newer terms as those terms are agreed and ratified with the wider community. 
+ 
+Contact us at education@arm.com with questions or comments about this tool. You can also report non-inclusive and offensive terminology usage in Arm content at terms@arm.com.
