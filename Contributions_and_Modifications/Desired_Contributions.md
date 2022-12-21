@@ -4,3 +4,4 @@
 * Command line feature, specify directories as arguments
 * Warning messages
 * Writing Integration test for EduSuite PPT
+* Executable version with simple GUI
