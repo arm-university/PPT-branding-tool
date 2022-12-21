@@ -40,6 +40,8 @@ Responsibilities:
 
 ### Contributions
 
+A list of desired contributions can be found [here](https://github.com/arm-university/PPT-branding-tool/blob/main/Contributions_and_Modifications/Desired_Contributions.md).
+
 Before contributing an enhancement (for example, a new lab or additional content), please review the contributions made to date to avoid duplication of work, as we or others might be working on a related feature.
 
 We can only accept contributions through GitHub if you create a pull request from forked or cloned versions of our repository. This allows us to review the contributions in an easy-to-use and reliable way, under public scrutiny.
