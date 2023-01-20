@@ -33,7 +33,7 @@ To the extent that any claim in any patent application filed by you would not ha
 
 13. SPECIAL CONDITIONS. The provisions of this Clause 13 shall take precedence in the event of any conflict with the remainder of this Agreement.
 
-Use of the pedagogical processor model provided with the Introduction to Computer Architecture Education Kit (the "Arm Education Core") is subject to the following special conditions:
+    Use of the pedagogical processor model provided with the Introduction to Computer Architecture Education Kit (the "Arm Education Core") is subject to the following     special conditions:
 
     (a) you may only refer to or publish the Arm Education Core, or any modifications you make to the Arm Education Core or any results you obtain from its use, in             whole or in part if you have first obtained Arm's specific prior written consent by emailing us at the address specified in Clause 12 above;
 
