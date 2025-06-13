@@ -1,9 +1,11 @@
 
 # PowerPoint Branding Tool
 
-Welcome to the PowerPoint Branding Tool.
+## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download](https://github.com/arm-university/PPT-branding-tool/releases/download/v2.0.0/PPT-branding-tool-main.zip)
 
-### [Download the tool here](https://github.com/arm-university/PPT-branding-tool/archive/refs/heads/main.zip)
+Welcome to the PowerPoint Branding Tool.
 
 This project makes it easy to change branding and template styles across multiple PowerPoint files. It may be useful alongside our Education Kits, for partners and Academics who wish to apply their own branding and styles to our materials. The tool can be found under the "PPT" folder and navigate to the pptx windows (Please be aware that the tool will only run in Windows). It contains three python script Refactor.py, MapPre.py, TestTool.py. The main script that needs to run is the Refactor.py.
 
